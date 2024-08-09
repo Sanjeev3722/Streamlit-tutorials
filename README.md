@@ -1,2 +1,2 @@
 # Streamlit-tutorials
-http://localhost:8501/
+https://app-tutorials-g3wru8wg2cpznrquirlovv.streamlit.app/
